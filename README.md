@@ -2,7 +2,11 @@
 
 <img src="https://img.shields.io/badge/ESSIK-NETWORK-EA5A2A?style=for-the-badge&labelColor=111111" alt="Essik Network" />
 
-<img src=" " alt="Essik Network logo" />
+<br/>
+
+<img src="img/logo.svg" alt="Essik Network logo" />
+
+<br/>
 
 ### Innovation • Technologie • Transformation digitale
 
