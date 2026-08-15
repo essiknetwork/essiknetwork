@@ -1,187 +1,154 @@
-# ESSIK NETWORK SARL
+<div align="center">
+
+<img src="https://img.shields.io/badge/ESSIK-NETWORK-EA5A2A?style=for-the-badge&labelColor=111111" alt="Essik Network" />
 
 ### Innovation • Technologie • Transformation digitale
 
-## 1. Qui sommes-nous ?
+**BUILD. AUTOMATE. GROW.**
+
+<sub>Software • AI • Automation • Digital Marketing</sub>
+
+<br/>
+
+![Since](https://img.shields.io/badge/Since-2015-EA5A2A?style=flat-square&labelColor=111111)
+![Location](https://img.shields.io/badge/Maroc-International-EA5A2A?style=flat-square&labelColor=111111)
+![Brand](https://img.shields.io/badge/Marque-EssikDev-EA5A2A?style=flat-square&labelColor=111111)
+![License](https://img.shields.io/badge/License-Proprietary-111111?style=flat-square)
+
+</div>
+
+<br/>
+
+## Qui sommes-nous ?
 
 **Essik Network SARL** est une entreprise marocaine spécialisée dans les technologies digitales et le développement de solutions informatiques sur mesure.
 
-À travers son activité **EssikDev**, l’entreprise accompagne depuis **2015** les entreprises, organisations et startups dans leur transformation digitale, en combinant développement logiciel, systèmes d’information, applications digitales et services de marketing numérique.
+À travers son activité **EssikDev**, l'entreprise accompagne depuis **2015** les entreprises, organisations et startups dans leur transformation digitale : développement logiciel, systèmes d'information, applications digitales et marketing numérique.
 
-Notre objectif est de transformer les besoins métiers de nos clients en **solutions digitales performantes, sécurisées, évolutives et adaptées à leur activité**.
+> Transformer les idées et les besoins métiers en solutions technologiques concrètes, performantes et durables.
 
-## 2. Notre vision
+<br/>
 
-Notre vision est de construire une entreprise technologique capable de proposer bien plus que de simples prestations de développement.
+## Notre vision
 
-**Essik Network ambitionne de développer des solutions technologiques propriétaires et des systèmes d’information spécialisés permettant aux entreprises de digitaliser, automatiser et centraliser leurs opérations.**
+Évoluer d'une agence digitale traditionnelle vers un **acteur technologique** proposant des produits SaaS, des systèmes d'information métier et des solutions innovantes — capable de digitaliser, automatiser et centraliser les opérations de ses clients.
 
-Nous souhaitons ainsi évoluer d’une agence digitale traditionnelle vers un **acteur technologique proposant des produits SaaS, des systèmes d’information métier et des solutions innovantes**.
+```
+Services technologiques  →  Solutions métier  →  Produits SaaS
+```
 
-## 3. Nos domaines d’expertise
+<br/>
+
+## Domaines d'expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### Développement logiciel
+- Applications Web
+- Applications Mobile
+- Applications Desktop
+- API & architectures backend
+- Plateformes SaaS
+- Systèmes de gestion métier
+- Solutions e-commerce
 
-Nous concevons des applications et plateformes adaptées aux besoins spécifiques des entreprises :
+</td>
+<td width="33%" valign="top">
 
-* Applications Web
-* Applications Mobile
-* Applications Desktop
-* API et architectures backend
-* Plateformes SaaS
-* Systèmes de gestion métier
-* Solutions e-commerce
+### Systèmes d'information
+- CRM
+- Gestion commerciale
+- Gestion des ressources humaines
+- Finance & facturation
+- Gestion documentaire
+- Tableaux de bord & statistiques
+- Automatisation des processus
 
-### Systèmes d’information
-
-Essik Network développe des systèmes permettant de centraliser les données et d'automatiser les processus métiers :
-
-* Gestion des entreprises
-* CRM
-* Gestion commerciale
-* Gestion des ressources humaines
-* Finance et facturation
-* Gestion documentaire
-* Tableaux de bord et statistiques
-* Automatisation des processus
-
-La création de systèmes d’information adaptés aux besoins métiers fait partie des services présentés par l’entreprise.
+</td>
+<td width="33%" valign="top">
 
 ### Solutions digitales
+- Création de sites Web
+- E-commerce
+- UI/UX Design
+- SEO
+- Marketing digital
+- Réseaux sociaux
+- Production média
 
-Nous accompagnons également les entreprises dans leur présence et leur développement numérique :
+</td>
+</tr>
+</table>
 
-* Création de sites Web
-* E-commerce
-* UI/UX Design
-* SEO
-* Marketing digital
-* Gestion des réseaux sociaux
-* Publicité en ligne
-* Production média
+<br/>
 
-Ces services sont actuellement présentés dans l’offre publique d’EssikDev.
+## Solutions spécialisées
 
-## 4. Solutions spécialisées
+Parmi nos projets phares : un **Système d'Information Hospitalier** dédié aux centres d'hémodialyse — gestion des dossiers patients, des séances, des rapports, des statistiques, des alertes et applications destinées aux professionnels de santé.
 
-Essik Network développe également des solutions répondant à des problématiques sectorielles spécifiques.
+<br/>
 
-Parmi les projets mis en avant figure une solution de **Système d’Information Hospitalier dédiée aux centres d’hémodialyse**, avec notamment la gestion des dossiers patients, des séances, des rapports, des statistiques, des alertes et des applications destinées aux professionnels de santé.
+## Notre approche
 
-Cette orientation illustre notre volonté de développer des technologies adaptées aux **besoins réels des secteurs professionnels**, plutôt que de proposer uniquement des solutions génériques.
+| Étape | Description |
+|---|---|
+| **1. Analyse** | Comprendre les processus, les contraintes et les objectifs du client |
+| **2. Conception** | Définir l'architecture, l'expérience utilisateur et les fonctionnalités |
+| **3. Développement** | Construire une solution moderne, performante et évolutive |
+| **4. Déploiement** | Mettre la solution en production et l'intégrer chez le client |
+| **5. Accompagnement** | Assurer la maintenance, le support et l'évolution dans le temps |
 
-## 5. Notre approche
+<br/>
 
-Chez Essik Network, chaque projet commence par la compréhension du besoin métier.
+## Secteurs d'intervention
 
-### Analyse
+`Entreprises & PME` `Commerce & e-commerce` `Santé` `Éducation` `Industrie` `Services` `Startups` `Organisations & institutions`
 
-Comprendre les processus, les contraintes et les objectifs du client.
+<br/>
 
-### Conception
+## Nos engagements
 
-Définir l'architecture, l'expérience utilisateur et les fonctionnalités nécessaires.
+| | |
+|---|---|
+| **Innovation** | Adopter des technologies adaptées aux besoins actuels et futurs |
+| **Performance** | Développer des solutions rapides, efficaces et optimisées |
+| **Sécurité** | Protéger les systèmes et les données de nos clients |
+| **Évolutivité** | Concevoir des solutions capables d'évoluer avec l'entreprise |
+| **Accompagnement** | Construire une relation durable au-delà de la livraison |
 
-### Développement
+<br/>
 
-Construire une solution moderne, performante et évolutive.
+## Équipe
 
-### Déploiement
+Essik Network s'appuie sur des compétences complémentaires : direction & management, développement full-stack, développement backend, design, marketing, photographie/vidéographie, SEO & analyse digitale.
 
-Mettre la solution en production et assurer son intégration dans l'environnement du client.
+**EL MEHDI ESSIK** — *Founder & CEO*
 
-### Accompagnement
+<br/>
 
-Assurer la maintenance, le support et l'évolution de la solution dans le temps.
+## Fiche d'identité
 
-Notre approche met notamment l'accent sur la performance, la sécurité, l'évolutivité, l'expérience utilisateur et le support.
+| | |
+|---|---|
+| **Secteur** | Technologie • IT • Digital • SaaS |
+| **Activité** | Développement logiciel et transformation digitale |
+| **Marché** | Maroc et international |
+| **Marque digitale** | EssikDev |
+| **Direction** | EL MEHDI ESSIK — Founder & CEO |
+| **Depuis** | 2015 |
 
-## 6. Nos secteurs d'intervention
-
-Notre expertise peut être appliquée à différents secteurs :
-
-* Entreprises et PME
-* Commerce et e-commerce
-* Santé
-* Éducation
-* Industrie
-* Services
-* Startups
-* Organisations et institutions
-
-Les projets présentés publiquement par EssikDev couvrent notamment des domaines comme le business, la construction, l'éducation, la santé et les solutions SaaS.
-
-## 7. Notre équipe
-
-Essik Network s'appuie sur des compétences complémentaires dans plusieurs domaines technologiques et créatifs.
-
-L'équipe présentée publiquement comprend notamment des profils en :
-
-* Direction et management
-* Développement Full-Stack
-* Développement Backend
-* Design
-* Marketing
-* Photographie et vidéographie
-* SEO et analyse digitale
-
-**EL MEHDI ESSIK — Founder & CEO** est présenté comme le dirigeant fondateur de l'entreprise.
-
-## 8. Notre engagement
-
-Nous nous engageons à proposer à nos clients :
-
-**Innovation**
-Adopter des technologies adaptées aux besoins actuels et futurs.
-
-**Performance**
-Développer des solutions rapides, efficaces et optimisées.
-
-**Sécurité**
-Accorder une attention particulière à la protection des systèmes et des données.
-
-**Évolutivité**
-Concevoir des solutions capables d'évoluer avec l'entreprise.
-
-**Accompagnement**
-Construire une relation durable avec nos clients au-delà de la livraison du projet.
-
-## 9. Notre ambition
-
-L'ambition d'Essik Network est de devenir un **acteur technologique marocain capable de concevoir et développer ses propres solutions digitales**, tout en accompagnant les entreprises dans leur transformation numérique.
-
-Notre développement repose sur trois axes :
-
-**Services technologiques → Solutions métier → Produits SaaS**
-
-L'objectif est de créer progressivement un écosystème de solutions permettant aux entreprises de **centraliser leurs données, automatiser leurs processus et améliorer leur performance**.
-
-## 10. ESSIK NETWORK en quelques mots
-
-**ESSIK NETWORK SARL**
-
-**Secteur :** Technologie • IT • Digital • SaaS
-**Activité :** Développement logiciel et transformation digitale
-**Marché :** Maroc et international
-**Marque digitale :** EssikDev
-**Direction :** EL MEHDI ESSIK — Founder & CEO
-**Depuis :** 2015
-
-### Notre mission
-
-> **Transformer les idées et les besoins métiers en solutions technologiques concrètes, performantes et durables.**
-
-### Notre vision
-
-> **Construire un écosystème technologique marocain capable de créer des solutions digitales innovantes pour les entreprises et les secteurs professionnels.**
+<br/>
 
 ## Contact
 
-**ESSIK NETWORK SARL**
-Maroc
+<div align="center">
 
-**Site :** Essiknetwork
-**Email :** [contact@essiknetwork.com](mailto:contact@essiknetwork.com)
-**Téléphone :** +212 6 552-028 54
+[contact@essiknetwork.com](mailto:contact@essiknetwork.com) &nbsp;•&nbsp; +212 6 552-028 54 &nbsp;•&nbsp; Maroc
 
-Le site public indique également une implantation au Maroc et présente Essiknetwork comme accompagnant les entreprises depuis 2015.
+<br/><br/>
+
+<sub>© 2015–2026 Essik Network SARL — Tous droits réservés</sub>
+
+</div>
