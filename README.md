@@ -134,6 +134,8 @@ Essik Network s'appuie sur des compétences complémentaires : direction & manag
 **zakariae machiche** _ *Co-Founder & Markter *
 **yassine benhaida** _ *Project Manager*
 **yahya saadi** _ *Wp Developer*
+**nisrine Fitesse** _ *Marketing Assistance*
+
 
 <br/>
 
