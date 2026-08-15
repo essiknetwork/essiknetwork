@@ -4,9 +4,6 @@
 
 <br/>
 
-<img src="img/logo.svg" alt="Essik Network logo" width="500" />
-
-<br/>
 
 ### Innovation • Technologie • Transformation digitale
 
