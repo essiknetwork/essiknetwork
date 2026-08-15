@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="img/logo.svg" alt="Essik Network logo" width="80" />
+<img src="img/logo.svg" alt="Essik Network logo" width="500" />
 
 <br/>
 
