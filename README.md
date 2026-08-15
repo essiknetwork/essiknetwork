@@ -4,6 +4,7 @@
 
 <br/>
 <img src="img/logo.svg" width="500">
+<br/>
 ### Innovation • Technologie • Transformation digitale
 
 **BUILD. AUTOMATE. GROW.**
