@@ -145,7 +145,7 @@ Essik Network s'appuie sur des compétences complémentaires : direction & manag
 
 <div align="center">
 
-[contact@essiknetwork.com](mailto:contact@essiknetwork.com) &nbsp;•&nbsp; +212 6 552-028 54 &nbsp;•&nbsp; Maroc
+[contact@essiknetwork.com](mailto:essiknetwork@gmail.com) &nbsp;•&nbsp; +212 5 233-088 02 &nbsp;•&nbsp; Maroc
 
 <br/><br/>
 
