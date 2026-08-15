@@ -130,11 +130,11 @@ Parmi nos projets phares : un **Système d'Information Hospitalier** dédié aux
 
 Essik Network s'appuie sur des compétences complémentaires : direction & management, développement full-stack, développement backend, design, marketing, photographie/vidéographie, SEO & analyse digitale.
 
-**EL MEHDI ESSIK** — *Founder & CEO*
-**zakariae machiche** _ *Co-Founder & Markter *
-**yassine benhaida** _ *Project Manager*
-**yahya saadi** _ *Wp Developer*
-**nisrine Fitesse** _ *Marketing Assistance*
+**EL MEHDI ESSIK** — *Founder & CEO* [linkedin](https://www.linkedin.com/in/elmehdiessik2/)<br/>
+**zakariae machiche** _ *Co-Founder & Markter* [linkedin](https://www.linkedin.com/in/zakariae-machiche-9838b738b)<br/>
+**yassine benhaida** _ *Project Manager* [linkedin](https://www.linkedin.com/in/yassine-benhaida-431999419)<br/>
+**yahya saadi** _ *Wp Developer* [linkedin]()<br/>
+**nisrine Fitesse** _ *Marketing Assistance* [linkedin]()
 
 
 <br/>
