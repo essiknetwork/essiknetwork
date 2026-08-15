@@ -12,7 +12,7 @@
 
 ![Since](https://img.shields.io/badge/Since-2015-EA5A2A?style=flat-square&labelColor=111111)
 ![Location](https://img.shields.io/badge/Maroc-International-EA5A2A?style=flat-square&labelColor=111111)
-![Brand](https://img.shields.io/badge/Marque-EssikDev-EA5A2A?style=flat-square&labelColor=111111)
+![Brand](https://img.shields.io/badge/Marque-Essik-Network-EA5A2A?style=flat-square&labelColor=111111)
 ![License](https://img.shields.io/badge/License-Proprietary-111111?style=flat-square)
 
 </div>
@@ -23,7 +23,7 @@
 
 **Essik Network SARL** est une entreprise marocaine spécialisée dans les technologies digitales et le développement de solutions informatiques sur mesure.
 
-À travers son activité **EssikDev**, l'entreprise accompagne depuis **2015** les entreprises, organisations et startups dans leur transformation digitale : développement logiciel, systèmes d'information, applications digitales et marketing numérique.
+À travers son activité **Essik Network**, l'entreprise accompagne depuis **2015** les entreprises, organisations et startups dans leur transformation digitale : développement logiciel, systèmes d'information, applications digitales et marketing numérique.
 
 > Transformer les idées et les besoins métiers en solutions technologiques concrètes, performantes et durables.
 
@@ -135,7 +135,7 @@ Essik Network s'appuie sur des compétences complémentaires : direction & manag
 | **Secteur** | Technologie • IT • Digital • SaaS |
 | **Activité** | Développement logiciel et transformation digitale |
 | **Marché** | Maroc et international |
-| **Marque digitale** | EssikDev |
+| **Marque digitale** | Essik Network |
 | **Direction** | EL MEHDI ESSIK — Founder & CEO |
 | **Depuis** | 2015 |
 
