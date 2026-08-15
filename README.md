@@ -12,7 +12,7 @@
 
 ![Since](https://img.shields.io/badge/Since-2015-EA5A2A?style=flat-square&labelColor=111111)
 ![Location](https://img.shields.io/badge/Maroc-International-EA5A2A?style=flat-square&labelColor=111111)
-![Brand](https://img.shields.io/badge/Marque-Essik-Network-EA5A2A?style=flat-square&labelColor=111111)
+![Brand](https://img.shields.io/badge/Marque-EssikNetwork-EA5A2A?style=flat-square&labelColor=111111)
 ![License](https://img.shields.io/badge/License-Proprietary-111111?style=flat-square)
 
 </div>
