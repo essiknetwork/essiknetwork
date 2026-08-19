@@ -134,7 +134,7 @@ Essik Network s'appuie sur des compétences complémentaires : direction & manag
 **ZAKARIAE MACHICHE** — *Co-Founder & Markter* -> [linkedin](https://www.linkedin.com/in/zakariae-machiche-9838b738b)<br/>
 **YASSINE BENHAIDA** — *Project Manager* -> [linkedin](https://www.linkedin.com/in/yassine-benhaida-431999419)<br/>
 **YAHYA SAADI** — *Wp Developer* -> [linkedin](https://www.linkedin.com/in/saadi-yahya-9a543b42a?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br/>
-**NISRINE FITESSE** — *Marketing Assistance* -> [linkedin]()
+
 
 
 <br/>
